@@ -1,0 +1,13 @@
+version: "3.8"
+
+services:
+  app:
+    build: .
+    container_name: streamlit_annotator
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./inputs.json:/app/inputs.json
+      - ./labeled_data.json:/app/labeled_data.json
+    environment:
+      - STREAMLIT_SERVER_HEADLESS=true

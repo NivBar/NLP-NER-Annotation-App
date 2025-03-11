@@ -1,0 +1,128 @@
+[
+    {
+        "ID": "a937cfe7-65f5-4e15-9d8c-fc0dc453e6fb",
+        "labeled_data": [
+            {
+                "word": "Alice",
+                "label": [
+                    "LOCATION",
+                    "COUNTRY",
+                    "PERSON"
+                ],
+                "position": 0,
+                "sentence_id": "a937cfe7-65f5-4e15-9d8c-fc0dc453e6fb"
+            },
+            {
+                "word": "met",
+                "label": [
+                    "PERSON",
+                    "LOCATION"
+                ],
+                "position": 1,
+                "sentence_id": "a937cfe7-65f5-4e15-9d8c-fc0dc453e6fb"
+            },
+            {
+                "word": "Bob",
+                "label": [
+                    "NONE"
+                ],
+                "position": 2,
+                "sentence_id": "a937cfe7-65f5-4e15-9d8c-fc0dc453e6fb"
+            },
+            {
+                "word": "at",
+                "label": [
+                    "NONE"
+                ],
+                "position": 3,
+                "sentence_id": "a937cfe7-65f5-4e15-9d8c-fc0dc453e6fb"
+            },
+            {
+                "word": "the",
+                "label": [
+                    "NONE"
+                ],
+                "position": 4,
+                "sentence_id": "a937cfe7-65f5-4e15-9d8c-fc0dc453e6fb"
+            },
+            {
+                "word": "Apple",
+                "label": [
+                    "PERSON",
+                    "LOCATION"
+                ],
+                "position": 5,
+                "sentence_id": "a937cfe7-65f5-4e15-9d8c-fc0dc453e6fb"
+            },
+            {
+                "word": "headquarters",
+                "label": [
+                    "NONE"
+                ],
+                "position": 6,
+                "sentence_id": "a937cfe7-65f5-4e15-9d8c-fc0dc453e6fb"
+            }
+        ]
+    },
+    {
+        "ID": "a937cfe7-65f5-4e15-9d8c-fc0dc453e6fb",
+        "labeled_data": [
+            {
+                "word": "Alice",
+                "labels": [
+                    "COMPANY"
+                ],
+                "position": 0,
+                "sentence_id": "a937cfe7-65f5-4e15-9d8c-fc0dc453e6fb"
+            },
+            {
+                "word": "met",
+                "labels": [
+                    "COUNTRY"
+                ],
+                "position": 1,
+                "sentence_id": "a937cfe7-65f5-4e15-9d8c-fc0dc453e6fb"
+            },
+            {
+                "word": "Bob",
+                "labels": [
+                    "DEVICE"
+                ],
+                "position": 2,
+                "sentence_id": "a937cfe7-65f5-4e15-9d8c-fc0dc453e6fb"
+            },
+            {
+                "word": "at",
+                "labels": [
+                    "LOCATION"
+                ],
+                "position": 3,
+                "sentence_id": "a937cfe7-65f5-4e15-9d8c-fc0dc453e6fb"
+            },
+            {
+                "word": "the",
+                "labels": [
+                    "OTHER"
+                ],
+                "position": 4,
+                "sentence_id": "a937cfe7-65f5-4e15-9d8c-fc0dc453e6fb"
+            },
+            {
+                "word": "Apple",
+                "labels": [
+                    "PERSON"
+                ],
+                "position": 5,
+                "sentence_id": "a937cfe7-65f5-4e15-9d8c-fc0dc453e6fb"
+            },
+            {
+                "word": "headquarters",
+                "labels": [
+                    "PERSON"
+                ],
+                "position": 6,
+                "sentence_id": "a937cfe7-65f5-4e15-9d8c-fc0dc453e6fb"
+            }
+        ]
+    }
+]
